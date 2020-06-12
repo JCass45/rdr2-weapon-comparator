@@ -1,0 +1,17 @@
+{
+  "name": "rdr2-weapon-comparator",
+  "engines": {
+    "node": ">=12 < 13"
+  },
+  "version": "0.0.1",
+  "description": "Comparing weapons in Red Dead 2 sucks, this app makes it easy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rdr2"
+  ],
+  "author": "Jack Cassidy",
+  "license": "ISC"
+}
